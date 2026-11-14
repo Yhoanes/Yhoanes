@@ -20,10 +20,10 @@ I design and build autonomous AI agent environments, deterministic engineering f
 
 ## Featured Open-Source Projects
 
-### [Antigravity for Android](https://github.com/Yhoanes/antigravity-android)
-**Autonomous Agentic IDE & Native ARM64 Reverse-Engineering Environment** · `Java` · `AArch64 / Bionic` · `Rust MCP` · `Ghidra 12.1.4` · `Python` · `Shell`
+### [Antigravity for Android](https://github.com/Yhoanes/antigravity-android) · [Official Site](https://yhoanes.github.io/antigravity-android/)
+**Standalone Google Antigravity IDE & Native ARM64 Reverse-Engineering APK** · `Java` · `Rust (agy-box)` · `AArch64 / Bionic` · `Ghidra 12.1.4` · `MCP` · `WebRTC`
 
-Native Android (`Bionic`/`Glibc`) agentic development and binary reverse-engineering environment (`v2.31.0`) executing directly on physical ARM64 hardware without PRoot or QEMU virtualization overhead. Combines multi-model autonomous coding agents with touch-engineered reasoning controls, bidirectional WebRTC/WebAudio Live Voice Chat, binary-patched `language_server` execution (`exebox`/`seccomp` bypass on unrooted kernels), `O(1)` stage-isolated `pkg` management, Shizuku (`rish`) integration, and a two-tier native ARM64 reverse-engineering suite (**320 MCP tools** via `Craft Anything` in Rust + on-demand headless **Ghidra 12.1.4** `decompile` & `sleigh`).
+Native Android (`Bionic`/`Glibc`) autonomous coding IDE and binary reverse-engineering environment (`v2.32.0`) executing directly on physical ARM64 hardware without PRoot or QEMU virtualization overhead (`1,222 MB/s` UFS reads, `84,395 IOPS`). Includes the single-binary **`agy-box` Rust runtime accelerator** (4-thread parallel `pkg`, `41 ms` `inotify` `agy-daemon` in `900 KB` heap, `112x` faster NEON path rewriting, and `398` zero-shell symlinks), HTTP/2 stream resume guard (`<1s` background rehydration), Live Voice WebRTC, 1-tap OTA updates, and the live **[Built for Android Plugin Marketplace](https://github.com/Yhoanes/antigravity-android-plugins)** (`AGY Video Studio` GPU `h264_mediacodec`, `Craft Anything` **302 Rust MCP tools** + native ARM64 **Ghidra 12.1.4**, `Game Studio 2D/3D`, and 91-tool `GitHub MCP`).
 
 ### [AI Engineering Harness](https://github.com/Yhoanes/ai-engineering-harness)
 **Deterministic Agent Governance, Orchestration & Validation Framework** · `Python 3.11+` · `JSON Schema` · `PyYAML` · `Pytest`
