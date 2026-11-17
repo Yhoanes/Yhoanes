@@ -3,7 +3,7 @@
 **Software Developer · Systems & AI Engineering**  
 Native Android ARM64 Agentic IDEs · Rust Bionic Runtimes · Binary Reverse Engineering · Harness Governance · Full-Stack Web
 
-[**Official Website (`yhoanes.github.io`)**](https://yhoanes.github.io/) · [**LLM Reference (`llms.txt`)**](https://yhoanes.github.io/llms.txt)
+[**Official Website (`yhoanes.github.io`)**](https://yhoanes.github.io/) · [**Join Discord (`Yhoanes · ARM64 & AI Lab`)**](https://discord.gg/BuMGkGCtBv) · [**LLM Reference (`llms.txt`)**](https://yhoanes.github.io/llms.txt)
 
 I design and build bare-metal **Android ARM64 (`Bionic`)** autonomous AI coding environments, single-binary Rust userspace accelerators, native binary reverse-engineering toolchains, deterministic AI governance frameworks, and full-stack enterprise platforms — focusing on zero-virtualization performance, capability-hardened security boundaries, and deterministic verification.
 
